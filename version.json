@@ -1,0 +1,9 @@
+{
+  "version": "1.0.3",
+  "build_number": 0,
+  "force_update": false,
+  "url": "https://github.com/AI-Elang/ElangDashboardUpdateApp/releases/download/v1.0.3/app-release.apk",
+  "changelog": [
+    "Add feature Photo in DSE AI",    "Update Near Me (mincor)",    "Update icon in home"
+  ]
+}
