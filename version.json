@@ -1,0 +1,9 @@
+{
+  "version": "1.0.7",
+  "build_number": 2,
+  "force_update": false,
+  "url": "https://github.com/AI-Elang/ElangDashboardUpdateApp/releases/download/v1.0.7/app-release.apk",
+  "changelog": [
+    "Update color marker in Near Maps and Cari Maps"
+  ]
+}
