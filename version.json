@@ -1,0 +1,9 @@
+{
+  "version": "1.0.16",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/ElangDashboardUpdateApp/releases/download/v1.0.16/app-release.apk",
+  "changelog": [
+    "fix bug dropdown dashboard",    "fix bug base teritory"
+  ]
+}
