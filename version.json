@@ -1,0 +1,9 @@
+{
+  "version": "1.0.19",
+  "build_number": 0,
+  "force_update": false,
+  "url": "https://github.com/AI-Elang/ElangDashboardUpdateApp/releases/download/v1.0.19/app-release.apk",
+  "changelog": [
+    "Re-design menu",    "Add track (dse ai) menu",    "Add summary dse ai daily",    "Add detail outlet in summary dse ai daily"
+  ]
+}
