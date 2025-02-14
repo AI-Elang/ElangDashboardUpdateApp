@@ -1,0 +1,9 @@
+{
+  "version": "1.1.1",
+  "build_number": 1,
+  "force_update": false,
+  "url": "https://github.com/AI-Elang/ElangDashboardUpdateApp/releases/download/v1.1.1/app-release.apk",
+  "changelog": [
+    "Add feature Dashboard DSE Report and move AI ELANG PRO into More menu."
+  ]
+}
