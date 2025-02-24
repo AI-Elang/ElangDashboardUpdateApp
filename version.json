@@ -1,0 +1,9 @@
+{
+  "version": "1.1.17",
+  "build_number": 1,
+  "force_update": false,
+  "url": "https://github.com/AI-Elang/ElangDashboardUpdateApp/releases/download/v1.1.17/app-release.apk",
+  "changelog": [
+    "Update DSE Tracking Maps feature"
+  ]
+}
