@@ -1,0 +1,9 @@
+{
+  "version": "1.2.8",
+  "build_number": 1,
+  "force_update": false,
+  "url": "https://github.com/AI-Elang/ElangDashboardUpdateApp/releases/download/v1.2.8/app-release.apk",
+  "changelog": [
+    "(FIX) Issue incorrect data in SUMMARY DSE AI MONTHLY."
+  ]
+}
