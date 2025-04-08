@@ -1,0 +1,9 @@
+{
+  "version": "1.2.16",
+  "build_number": 1,
+  "force_update": false,
+  "url": "https://github.com/AI-Elang/ElangDashboardUpdateApp/releases/download/v1.2.16/app-release.apk",
+  "changelog": [
+    "Add complaint data in DSE AI"
+  ]
+}
