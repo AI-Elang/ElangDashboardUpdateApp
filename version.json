@@ -1,0 +1,9 @@
+{
+  "version": "1.2.19",
+  "build_number": 1,
+  "force_update": false,
+  "url": "https://github.com/AI-Elang/ElangDashboardUpdateApp/releases/download/v1.2.19/app-release.apk",
+  "changelog": [
+    "Add summary data (pt) and fixing issue missing data in detail outlet."
+  ]
+}
