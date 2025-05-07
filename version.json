@@ -1,0 +1,9 @@
+{
+  "version": "1.2.22",
+  "build_number": 1,
+  "force_update": false,
+  "url": "https://github.com/AI-Elang/ElangDashboardUpdateApp/releases/download/v1.2.22/app-release.apk",
+  "changelog": [
+    "Add Checkin data in Mitra menu and fixing some issues."
+  ]
+}
